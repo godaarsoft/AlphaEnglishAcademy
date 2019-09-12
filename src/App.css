@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'minimal';
+    src: url('assets/fonts/minimal.eot');
+    src: url('assets/fonts/minimal.otf') format('opentype');
+}
+
+.logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 26px 24px 16px 25px;
+    float: right;
+}
+
+.layout {
+    direction: rtl;
+    font-family: 'minimal';
+}
+
