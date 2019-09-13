@@ -6057,7 +6057,7 @@ less-loader@^5.0.0:
     loader-utils "^1.1.0"
     pify "^4.0.1"
 
-less@^3.10.3:
+less@^3.0.1, less@^3.10.3:
   version "3.10.3"
   resolved "https://registry.yarnpkg.com/less/-/less-3.10.3.tgz#417a0975d5eeecc52cff4bcfa3c09d35781e6792"
   integrity sha512-vz32vqfgmoxF1h3K4J+yKCtajH0PWmjkIFgbs5d78E/c/e+UQTnI+lWK+1eQRE95PXM2mC3rJlLSSP9VQHnaow==
@@ -8777,6 +8777,14 @@ react-lazy-load@^3.0.13:
     lodash.debounce "^4.0.0"
     lodash.throttle "^4.0.0"
     prop-types "^15.5.8"
+
+react-less-watcher@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/react-less-watcher/-/react-less-watcher-1.1.4.tgz#6fdc1d59a84b61316d11ca67ac21c51357554ef9"
+  integrity sha512-vUJIwJUk2HAu9bhIIze8Yx7iJeRlQkq+vEye2+8XjidvJ1GyL4RtCQXsPKUjU4WywDYyH0cGA2lCVRdyA5KQug==
+  dependencies:
+    chokidar "^2.0.2"
+    less "^3.0.1"
 
 react-lifecycles-compat@^3.0.2, react-lifecycles-compat@^3.0.4:
   version "3.0.4"
