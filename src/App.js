@@ -2,7 +2,7 @@ import React from 'react';
 import { Route } from 'react-router';
 import { BrowserRouter, Link } from 'react-router-dom';
 import { Layout, Menu, Breadcrumb } from 'antd';
-import './App.css';
+import './App.less';
 import Home from './scripts/Home';
 import Contact from './scripts/Contact';
 
