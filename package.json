@@ -8,9 +8,11 @@
     "less-loader": "^5.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-less-watcher": "^1.1.4",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "save": "^2.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
